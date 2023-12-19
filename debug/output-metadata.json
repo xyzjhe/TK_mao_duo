@@ -1,0 +1,20 @@
+{
+  "version": 3,
+  "artifactType": {
+    "type": "APK",
+    "kind": "Directory"
+  },
+  "applicationId": "com.hlhwan.heyin.drpy2",
+  "variantName": "debug",
+  "elements": [
+    {
+      "type": "SINGLE",
+      "filters": [],
+      "attributes": [],
+      "versionCode": 2023100747,
+      "versionName": "2023.10.7",
+      "outputFile": "HE影_V2023.10.7_C2023100747_debug.apk"
+    }
+  ],
+  "elementType": "File"
+}

@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- Main Theme E50914 D81F26 -->
+    <!-- Main Dialog Button BG -->
+
+    <!-- EPG Colors -->
+    <color name="color_32364E">#32364E</color>
+    <color name="color_32364E_40">#6632364E</color>
+    <color name="color_3D3D3D">#3D3D3D</color>
+    <color name="color_3D3D3D_45">#733D3D3D</color>
+    <color name="color_3D3D3D_50">#803D3D3D</color>
+
+    <!-- Live Menu BG (left / right) -->
+    <color name="color_0E0E0E_90">#E60E0E0E</color>
+
+    <!-- Main Dialog BG -->
+    <color name="color_6A6A6A_95">#F26A6A6A</color>
+
+    <color name="color_FFFFFF">#FFFFFF</color>
+    <color name="color_FFFFFF_80">#CCFFFFFF</color>
+    <color name="color_FFFFFF_70">#B3FFFFFF</color>
+    <color name="color_FFFFFF_50">#80FFFFFF</color>
+    <color name="color_FFFFFF_40">#66FFFFFF</color>
+    <color name="color_FFFFFF_20">#32FFFFFF</color>
+    <color name="color_FFFFFF_15">#26FFFFFF</color>
+
+    <color name="color_FF000000">#FF000000</color>
+    <color name="color_000000_90">#E6000000</color>
+    <color name="color_000000_80">#CC000000</color>
+    <color name="color_000000_70">#B3000000</color>
+    <color name="color_000000_60">#99000000</color>
+    <color name="color_000000_40">#66000000</color>
+    <color name="color_000000_30">#48000000</color>
+
+    <!-- Unused Subtitle Text -->
+    <color name="color_FFB6C1">#FFB6C1</color>
+    <color name="color_6CFFFFFF">#6CFFFFFF</color>
+
+
+    <!-- Main Theme E50914 D81F26 -->
+    <!-- Main Dialog Button BG -->
+
+    <!-- EPG Colors -->
+
+
+    <color name="color_1890FF">#1890FF</color>
+
+    <color name="color_CBF46A">#CBF46A</color>
+    <color name="color_FF90CA09">#90CA09</color>
+
+    <color name="color_0CADE2">#0CADE2</color>
+
+    <color name="color_CC000000">#CC000000</color>
+    <color name="color_6C3D3D3D">#6c3d3d3d</color>
+
+
+    <color name="color_03DAC5">#03DAC5</color>
+
+
+</resources>
